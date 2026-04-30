@@ -2,14 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Engineering+student+%7C+Full+Stack+Dev;☕+Java+Enthusiast+%7C+AI+Explorer;💳+Building+a+Fintech+Startup;📊+Data+Engineering+Learner;🚀+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Engineering+student+%7C+Full+Stack+Dev;%E2%98%95+Java+Enthusiast+%7C+AI+Explorer;%F0%9F%92%B3+Building+a+Fintech+Startup;%F0%9F%93%8A+Data+Engineering+Learner;%F0%9F%9A%80+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-batra-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batrarishika06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2338bdf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishika-Batra)
-
 
 </div>
 
@@ -133,5 +132,10 @@ const rishika = {
 
 <div align="center">
 
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
 <!-- FOOTER --> <div class="footer"> <p class="footer-text">Made with <span>♥</span> by Rishika · Crafted with code & curiosity · <span>Star ⭐ this profile if you like it!</span></p> </div> </div>
 </div>
