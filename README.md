@@ -1,110 +1,137 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:38bdf8,100:f472b6&height=220&section=header&text=Rishika%20Batra&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=✦%20Welcome%20to%20my%20universe%20✦&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rishika+Batra+%F0%9F%91%8B;Full+Stack+Developer;Java+Enthusiast+%E2%98%95;AI+%26+Data+Engineering+Explorer+%F0%9F%A4%96;Building+the+Future+of+Fintech+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Engineering+student+%7C+Full+Stack+Dev;☕+Java+Enthusiast+%7C+AI+Explorer;💳+Building+a+Fintech+Startup;📊+Data+Engineering+Learner;🚀+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-batra-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batrarishika06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2338bdf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishika-Batra)
+
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
-### 🙋‍♀️ About Me:
+## ✦ About Me
 
-```yaml
-name: Rishika Batra
-role: Student & Aspiring Developer
-interests:
-  - ☕ Java Enthusiast
-  - 🌐 Full Stack Development
-  - 🤖 Artificial Intelligence
-  - 📊 Data Engineering
-  - 💳 Building a Fintech Startup
-currently_learning:
-  - Full Stack Web Development
-  - Data Engineering Pipelines
-  - AI/ML Integration
-goal: "Build meaningful products that solve real-world problems"
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```ts
+const rishika = {
+  role     : "Student & Aspiring Developer",
+  location : "India 🇮🇳 — coding through chai breaks ☕",
+  passions : [
+    "☕  Java Enthusiast",
+    "🌐  Full Stack Development",
+    "🤖  AI & Machine Learning",
+    "📊  Data Engineering",
+    "💳  Fintech Startup Founder",
+  ],
+  learning : [
+    "Full Stack Web Dev",
+    "Data Pipelines & Engineering",
+    "AI/ML Integration",
+  ],
+  openTo   : "Collaborations & Open Source 🚀",
+  goal     : "Build products that actually matter",
+};
 ```
 
----
+</td>
+<td width="40%" align="center" valign="top">
 
-### 🌐 Connect with me:
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishika-batra-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:batrarishika06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Rishika-Batra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<br/>
+
+![Open to Collaborations](https://img.shields.io/badge/🤝_Open_to-Collaborations-7c3aed?style=flat-square)
+![Based in India](https://img.shields.io/badge/📍_Based_in-India_🇮🇳-38bdf8?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
+
+## ✦ Tech Stack
+
+**💻 Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark&perline=10"/>
 </p>
 
----
+**⚛️ Frameworks & Libraries**
 
-### 💻 Tech Stack:
-
-**Languages:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,dart&theme=dark" alt="Languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind&theme=dark&perline=10"/>
 </p>
 
-**Frontend:**
+**🗄️ Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" alt="Frontend"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark&perline=10"/>
 </p>
 
-**Backend & Tools:**
+**🛠️ Tools & Editors**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode,github,postgres&theme=dark" alt="Backend and Tools"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=10"/>
 </p>
 
-**AI & Data:**
+**🤖 AI & Data**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="AI and Data"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
-### 📊 GitHub Stats:
+## ✦ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishika-Batra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-Batra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rishika-Batra&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=38bdf8&text_color=94a3b8&ring_color=7c3aed" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika-Batra&layout=compact&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=94a3b8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Rishika-Batra&theme=tokyonight&hide_border=true&background=0D0D14&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakNum=38bdf8&sideNums=94a3b8&currStreakLabel=a78bfa&sideLabels=64748b&dates=64748b" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
+
+## ✦ Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika-Batra&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishika-Batra&theme=tokyo-night&hide_border=true&bg_color=0d0d14&color=a78bfa&line=7c3aed&point=38bdf8&area=true&area_color=7c3aed20" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
-### 🚀 Contribution Activity:
+## ✦ Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishika-Batra&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+| 🧠 DSA & Problem Solving | 🚀 Full Stack Projects | 🌍 Open Source |
+|:---:|:---:|:---:|
+| Building strong algorithmic foundations daily | Improving end-to-end web applications | Exploring contributions to meaningful projects |
+| ![65%](https://img.shields.io/badge/Progress-65%25-7c3aed?style=flat-square) | ![80%](https://img.shields.io/badge/Progress-80%25-38bdf8?style=flat-square) | ![40%](https://img.shields.io/badge/Progress-40%25-f472b6?style=flat-square) |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
 <div align="center">
 
-### 🔥 *First solve it, then optimize it.*
-
-
+<!-- FOOTER --> <div class="footer"> <p class="footer-text">Made with <span>♥</span> by Rishika · Crafted with code & curiosity · <span>Star ⭐ this profile if you like it!</span></p> </div> </div>
 </div>
