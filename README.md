@@ -81,7 +81,6 @@ const rishika = {
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,postgres,supabase,mongodb&theme=dark&perline=10"/>
-<img src="https://cdn.simpleicons.org/duckdb/FFF000" height="48" style="margin-left:6px" title="DuckDB"/>
 </p>
 
 **🤖 ML / Data**
@@ -90,10 +89,7 @@ const rishika = {
 
 <p>
 <img src="https://skillicons.dev/icons?i=pandas&theme=dark&perline=10"/>
-<img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" style="margin-left:6px" title="dbt"/>
 </p>
-
-<sub>RFM Segmentation, Cohort Analysis, Churn & CLV Modeling are methodologies rather than branded tools, so no logo applies — they're covered by the Pandas / XGBoost / dbt stack above.</sub>
 
 **📊 Data Visualization**
 
@@ -202,7 +198,7 @@ Issued Jul 2026
 | 🧠 DSA & Problem Solving | 🚀 Full Stack Projects | 🌍 Open Source |
 |:---:|:---:|:---:|
 | Building strong algorithmic foundations daily | Improving end-to-end web applications | Exploring contributions to meaningful projects |
-| ![75%](https://img.shields.io/badge/Progress-65%25-7c3aed?style=flat-square) | ![90%](https://img.shields.io/badge/Progress-80%25-38bdf8?style=flat-square) | ![50%](https://img.shields.io/badge/Progress-40%25-f472b6?style=flat-square) |
+| ![65%](https://img.shields.io/badge/Progress-65%25-7c3aed?style=flat-square) | ![80%](https://img.shields.io/badge/Progress-80%25-38bdf8?style=flat-square) | ![40%](https://img.shields.io/badge/Progress-40%25-f472b6?style=flat-square) |
 
 </div>
 
