@@ -61,33 +61,56 @@ const rishika = {
 
 **💻 Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart&theme=dark&perline=10"/>
-</p>
-
-**⚛️ Frameworks & Libraries**
+`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL` · `C/C++` · `HTML` · `CSS`
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css&theme=dark&perline=10"/>
 </p>
 
-**🗄️ Databases**
+**⚛️ Frameworks & Tools**
+
+`React.js` · `Next.js` · `FastAPI` · `Express.js` · `Django REST Framework` · `Git` · `GitHub`
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,express,django,git,github&theme=dark&perline=10"/>
 </p>
 
-**🛠️ Tools & Editors**
+**☁️ Cloud & Databases**
+
+`AWS (Certified — Cloud Practitioner, AI Practitioner)` · `SQL` · `PostgreSQL` · `Supabase` · `MongoDB` · `DuckDB`
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=aws,postgres,supabase,mongodb&theme=dark&perline=10"/>
 </p>
 
-**🤖 AI & Data**
+**🤖 ML / Data**
+
+`XGBoost` · `Pandas` · `dbt` · `RFM Segmentation` · `Cohort Analysis` · `Churn & CLV Modeling`
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark&perline=10"/>
 </p>
+
+**📊 Data Visualization**
+
+`Tableau` · `Power BI` · `Recharts`
+
+<p>
+<img src="https://skillicons.dev/icons?i=tableau,powerbi&theme=dark&perline=10"/>
+</p>
+
+**🏆 Competitive Programming**
+
+LeetCode — 300+ problems solved (Java, C, C++) · Contest Rating: **1673**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
+
+## ✦ Certifications
+
+- 🏅 **AWS Certified AI Practitioner** — Amazon Web Services | Issued Jun 2026, Valid through Jun 2029
+- 🏅 **AWS Certified Cloud Practitioner** — Amazon Web Services | Issued May 2026, Valid through May 2029
+- 🏅 **Java Developer Certificate** — Infosys Springboard | Issued Nov 2025
+- 🏅 **Spring and Angular Full Stack Developer** — Infosys Springboard | Issued Jul 2026
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
@@ -117,6 +140,20 @@ const rishika = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
+## ✦ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishika-Batra/Rishika-Batra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishika-Batra/Rishika-Batra/output/github-contribution-grid-snake.svg" />
+  <img alt="Rishika's contribution snake" src="https://raw.githubusercontent.com/Rishika-Batra/Rishika-Batra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
+
 ## ✦ Current Focus
 
 <div align="center">
@@ -132,10 +169,4 @@ const rishika = {
 
 <div align="center">
 
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
 <!-- FOOTER --> <div class="footer"> <p class="footer-text">Made with <span>♥</span> by Rishika · Crafted with code & curiosity · <span>Star ⭐ this profile if you like it!</span></p> </div> </div>
-</div>
