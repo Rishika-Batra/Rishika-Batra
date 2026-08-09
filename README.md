@@ -69,10 +69,10 @@ const rishika = {
 
 **⚛️ Frameworks & Tools**
 
-`React.js` · `Next.js` · `FastAPI` · `Express.js` · `Django REST Framework` · `Git` · `GitHub`
+`React.js` · `Next.js` · `FastAPI` · `Flask` · `Express.js` · `Django REST Framework` · `Flutter` · `Git` · `GitHub`
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,express,django,git,github&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,express,django,flutter,git,github&theme=dark&perline=10"/>
 </p>
 
 **☁️ Cloud & Databases**
@@ -81,6 +81,7 @@ const rishika = {
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,postgres,supabase,mongodb&theme=dark&perline=10"/>
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" height="48" style="margin-left:6px" title="DuckDB"/>
 </p>
 
 **🤖 ML / Data**
@@ -89,7 +90,10 @@ const rishika = {
 
 <p>
 <img src="https://skillicons.dev/icons?i=pandas&theme=dark&perline=10"/>
+<img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" style="margin-left:6px" title="dbt"/>
 </p>
+
+<sub>RFM Segmentation, Cohort Analysis, Churn & CLV Modeling are methodologies rather than branded tools, so no logo applies — they're covered by the Pandas / XGBoost / dbt stack above.</sub>
 
 **📊 Data Visualization**
 
@@ -107,10 +111,47 @@ LeetCode — 300+ problems solved (Java, C, C++) · Contest Rating: **1673**
 
 ## ✦ Certifications
 
-- 🏅 **AWS Certified AI Practitioner** — Amazon Web Services | Issued Jun 2026, Valid through Jun 2029
-- 🏅 **AWS Certified Cloud Practitioner** — Amazon Web Services | Issued May 2026, Valid through May 2029
-- 🏅 **Java Developer Certificate** — Infosys Springboard | Issued Nov 2025
-- 🏅 **Spring and Angular Full Stack Developer** — Infosys Springboard | Issued Jul 2026
+<table>
+<tr>
+<td width="90" align="center"><img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></td>
+<td>
+
+**AWS Certified AI Practitioner** — Amazon Web Services
+Issued Jun 2026 · Valid through Jun 2029
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></td>
+<td>
+
+**AWS Certified Cloud Practitioner** — Amazon Web Services
+Issued May 2026 · Valid through May 2029
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center"><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></td>
+<td>
+
+**Java Developer Certificate** — Infosys Springboard
+Issued Nov 2025
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center">
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/><br/>
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+</td>
+<td>
+
+**Spring and Angular Full Stack Developer** — Infosys Springboard
+Issued Jul 2026
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
@@ -161,7 +202,7 @@ LeetCode — 300+ problems solved (Java, C, C++) · Contest Rating: **1673**
 | 🧠 DSA & Problem Solving | 🚀 Full Stack Projects | 🌍 Open Source |
 |:---:|:---:|:---:|
 | Building strong algorithmic foundations daily | Improving end-to-end web applications | Exploring contributions to meaningful projects |
-| ![65%](https://img.shields.io/badge/Progress-65%25-7c3aed?style=flat-square) | ![80%](https://img.shields.io/badge/Progress-80%25-38bdf8?style=flat-square) | ![40%](https://img.shields.io/badge/Progress-40%25-f472b6?style=flat-square) |
+| ![75%](https://img.shields.io/badge/Progress-65%25-7c3aed?style=flat-square) | ![90%](https://img.shields.io/badge/Progress-80%25-38bdf8?style=flat-square) | ![50%](https://img.shields.io/badge/Progress-40%25-f472b6?style=flat-square) |
 
 </div>
 
