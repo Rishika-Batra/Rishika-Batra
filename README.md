@@ -101,7 +101,7 @@ const rishika = {
 
 **🏆 Competitive Programming**
 
-LeetCode — 300+ problems solved (Java, C, C++) · Contest Rating: **1673**
+LeetCode — 400+ problems solved (Java, C, C++) · Contest Rating: **LeetCode Knight**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:38bdf8,100:f472b6&height=2" width="100%"/>
 
